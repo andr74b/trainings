@@ -9,9 +9,9 @@ public class Main {
 //                "result1");
 //        firstTask.run();
 
-//        SecondTask secondTask = new SecondTask("Tasks_for_3-4_lectures/src/main/java/dev/profitsoft/folter",
-//                "Tasks_for_3-4_lectures/src/main/java/dev/profitsoft/",
-//                "result");
-//        secondTask.run();
+        SecondTask secondTask = new SecondTask("Tasks_for_3-4_lectures/src/main/java/dev/profitsoft/folter",
+                "Tasks_for_3-4_lectures/src/main/java/dev/profitsoft/",
+                "result");
+        secondTask.run();
     }
 }
